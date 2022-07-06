@@ -5,7 +5,7 @@ jat
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/jat/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/jat/branch/master)
 
 
-Pure JAX implementation of a graph attention network.
+A (probably messy and naive) pure JAX implementation of a graph attention network.
 
 ### Copyright
 
