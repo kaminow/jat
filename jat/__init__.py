@@ -2,6 +2,7 @@
 
 # Add imports here
 from .jat import *
+from . import graph
 
 # Handle versioneer
 from ._version import get_versions
